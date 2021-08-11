@@ -1,0 +1,175 @@
+pambuo                                   Keyword (Integer)                        
+x                                        Identifier                               
+=                                        Assignment Operator                      
+10                                       Constant Number                          
+;                                        Delimiter Semicolon                      
+pambuo                                   Keyword (Integer)                        
+y                                        Identifier                               
+=                                        Assignment Operator                      
+12                                       Constant Number                          
+;                                        Delimiter Semicolon                      
+pambuo                                   Keyword (Integer)                        
+z                                        Identifier                               
+=                                        Assignment Operator                      
+13                                       Constant Number                          
+;                                        Delimiter Semicolon                      
+kapag                                    Keyword                                  
+(                                        Delimiter Parenthesis (Start)            
+x                                        Identifier                               
+>                                        Relational Operator(GREATER THAN)        
+y                                        Identifier                               
+)                                        Delimiter Parenthesis (End)              
+{                                        Delimiter Curly Bracket (Start)          
+isulat                                   Keyword (Pre-defined Function)           
+(                                        Delimiter Parenthesis (Start)            
+"                                        String Declarator (Start)                
+x                                        String                                   
+>                                        String                                   
+y                                        String                                   
+"                                        String Declarator (End)                  
+)                                        Delimiter Parenthesis (End)              
+;                                        Delimiter Semicolon                      
+}                                        Delimiter Curly Bracket (End)            
+kundi                                    Keyword                                  
+{                                        Delimiter Curly Bracket (Start)          
+isulat                                   Keyword (Pre-defined Function)           
+(                                        Delimiter Parenthesis (Start)            
+"                                        String Declarator (Start)                
+x                                        String                                   
+<                                        String                                   
+y                                        String                                   
+"                                        String Declarator (End)                  
+)                                        Delimiter Parenthesis (End)              
+;                                        Delimiter Semicolon                      
+}                                        Delimiter Curly Bracket (End)            
+x                                        Identifier                               
+=                                        Assignment Operator                      
+12                                       Constant Number                          
+y                                        Identifier                               
+=                                        Assignment Operator                      
+13                                       Constant Number                          
+kapag                                    Keyword                                  
+(                                        Delimiter Parenthesis (Start)            
+x                                        Identifier                               
+@                                        Relational Operator(EQUALS)              
+y                                        Identifier                               
+)                                        Delimiter Parenthesis (End)              
+{                                        Delimiter Curly Bracket (Start)          
+isulat                                   Keyword (Pre-defined Function)           
+(                                        Delimiter Parenthesis (Start)            
+"                                        String Declarator (Start)                
+x                                        String                                   
+=                                        String                                   
+=                                        String                                   
+y                                        String                                   
+"                                        String Declarator (End)                  
+)                                        Delimiter Parenthesis (End)              
+;                                        Delimiter Semicolon                      
+}                                        Delimiter Curly Bracket (End)            
+kapag                                    Keyword                                  
+(                                        Delimiter Parenthesis (Start)            
+x                                        Identifier                               
+$                                        Relational Operator(NOT EQUALS)          
+y                                        Identifier                               
+)                                        Delimiter Parenthesis (End)              
+{                                        Delimiter Curly Bracket (Start)          
+isulat                                   Keyword (Pre-defined Function)           
+(                                        Delimiter Parenthesis (Start)            
+"                                        String Declarator (Start)                
+x                                        String                                   
+!                                        String                                   
+=                                        String                                   
+y                                        String                                   
+"                                        String Declarator (End)                  
+)                                        Delimiter Parenthesis (End)              
+;                                        Delimiter Semicolon                      
+}                                        Delimiter Curly Bracket (End)            
+kapag                                    Keyword                                  
+(                                        Delimiter Parenthesis (Start)            
+(                                        Delimiter Parenthesis (Start)            
+x                                        Identifier                               
+@                                        Relational Operator(EQUALS)              
+y                                        Identifier                               
+)                                        Delimiter Parenthesis (End)              
+odikaya                                  Logical Operator(OR)                     
+(                                        Delimiter Parenthesis (Start)            
+x                                        Identifier                               
+<                                        Relational Operator(LESS THAN)           
+y                                        Identifier                               
+)                                        Delimiter Parenthesis (End)              
+)                                        Delimiter Parenthesis (End)              
+{                                        Delimiter Curly Bracket (Start)          
+isulat                                   Keyword (Pre-defined Function)           
+(                                        Delimiter Parenthesis (Start)            
+"                                        String Declarator (Start)                
+x                                        String                                   
+<                                        String                                   
+=                                        String                                   
+y                                        String                                   
+"                                        String Declarator (End)                  
+)                                        Delimiter Parenthesis (End)              
+;                                        Delimiter Semicolon                      
+}                                        Delimiter Curly Bracket (End)            
+z                                        Identifier                               
+=                                        Assignment Operator                      
+x                                        Identifier                               
+&                                        Bitwise Operator(&)                      
+y                                        Identifier                               
+;                                        Delimiter Semicolon                      
+isulat                                   Keyword (Pre-defined Function)           
+(                                        Delimiter Parenthesis (Start)            
+"                                        String Declarator (Start)                
+Line                                     String                                   
+1                                        String                                   
+-                                        String                                   
+Value                                    String                                   
+of                                       String                                   
+z                                        String                                   
+is                                       String                                   
++                                        String                                   
+"                                        String Declarator (End)                  
+z                                        Identifier                               
+)                                        Delimiter Parenthesis (End)              
+;                                        Delimiter Semicolon                      
+z                                        Identifier                               
+=                                        Assignment Operator                      
+x                                        Identifier                               
+|                                        Bitwise Operator(|)                      
+y                                        Identifier                               
+;                                        Delimiter Semicolon                      
+isulat                                   Keyword (Pre-defined Function)           
+(                                        Delimiter Parenthesis (Start)            
+"                                        String Declarator (Start)                
+Line                                     String                                   
+2                                        String                                   
+-                                        String                                   
+Value                                    String                                   
+of                                       String                                   
+z                                        String                                   
+is                                       String                                   
+"                                        String Declarator (End)                  
++                                        Append                                   
+z                                        Identifier                               
+)                                        Delimiter Parenthesis (End)              
+;                                        Delimiter Semicolon                      
+z                                        Identifier                               
+=                                        Assignment Operator                      
+x                                        Identifier                               
+^                                        Bitwise Operator(^)                      
+y                                        Identifier                               
+;                                        Delimiter Semicolon                      
+isulat                                   Keyword (Pre-defined Function)           
+(                                        Delimiter Parenthesis (Start)            
+"                                        String Declarator (Start)                
+Line                                     String                                   
+3                                        String                                   
+-                                        String                                   
+Value                                    String                                   
+of                                       String                                   
+z                                        String                                   
+is                                       String                                   
+"                                        String Declarator (End)                  
++                                        Append                                   
+z                                        Identifier                               
+)                                        Delimiter Parenthesis (End)              
+;                                        Delimiter Semicolon                      

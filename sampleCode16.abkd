@@ -1,0 +1,36 @@
+pambuo x = 10;
+pambuo y = 12;
+pambuo z = 13;
+
+kapag(x>y){
+ isulat("x > y");
+}
+kundi{
+ isulat("x < y");
+}
+
+x = 12
+y = 13
+
+kapag(x@y){
+ isulat("x==y");
+}
+
+kapag(x$y){
+ isulat("x!=y");
+}
+
+kapag((x@y) odikaya (x<y)){
+
+isulat("x<=y");
+}
+ z = x & y;      
+   isulat("Line 1 - Value of z is +"z);
+
+   z = x | y;       
+   isulat("Line 2 - Value of z is "+z);
+
+   z = x ^ y;      
+  isulat("Line 3 - Value of z is "+z);
+
+

@@ -1,0 +1,15 @@
+pambuo x = 420;
+pambuo y = 69;
+kapag (x > y){
+ isulat("420 > 69");
+}
+kundi{
+ isulat("sayang");
+}
+
+x = 420;
+y = 420;
+
+kapag((x@y) odikaya (x>y)){
+isulat("x is >= y");
+}

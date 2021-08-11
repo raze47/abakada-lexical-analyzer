@@ -1,0 +1,16 @@
+LEXEME					 TOKEN
+pambuo                                   Data Type                                
+x                                        Identifier                               
+=                                        Assignment Operator                      
+69                                       Constant Number                          
++                                        Arithmetic Operator Plus                 
+34                                       Constant Number                          
+/                                        Arithmetic Operator Division             
+23                                       Constant Number                          
+-                                        Arithmetic Operator Minus                
+(                                        Delimiter Parenthesis (Start)            
+22                                       Constant Number                          
+*                                        Arithmetic Operator Multiplication       
+3                                        Constant Number                          
+)                                        Delimiter Parenthesis (End)              
+;                                        Delimiter Semicolon                      

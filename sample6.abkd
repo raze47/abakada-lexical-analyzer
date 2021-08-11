@@ -1,0 +1,3 @@
+pambuo xvar1 = 12*23/59+24;
+isulat("nilalaman ng xvar1: "+xvar1);
+#printing value ng xvar1#

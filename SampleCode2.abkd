@@ -1,0 +1,11 @@
+void pangunahin (){
+pambuo bar1 = 1+1;
+hatimbuo bar2 = 2.5;
+bulyan bul = tama;
+parirala p1 = "ito ay parirala";
+titik t1 = 'a';
+pambuo bar3 = basahin ();
+/*isulat("Ang tama ay" + bul +"\n");*/
+/*isulat("Ito ay parirala");*/
+ibalik;
+}

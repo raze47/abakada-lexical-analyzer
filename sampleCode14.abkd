@@ -1,0 +1,27 @@
+angkat System.abkd_aklatan;
+
+# Conditional Statement #
+
+pambuo var0; 
+pambuo var1 = 5;
+
+# if statement #
+kapag (var1 @ 5) { # var1 == 5 #
+	isulat("ang baryante ay lima"); }
+
+# else-if statement #
+kundi kapag (var1 > 6 odikaya var1 @ 6) { # var1 >= 6 #
+	isulat("ang baryante ay higit sa lima"); }
+
+# if-else statement #
+kundi () {
+	isulat("ang baryante ay hindi higit sa lima"); }
+
+var0 = 1;
+
+# switch statement #
+palipat (var0) {
+	kaso 0: isulat("even"); itigil();
+	kaso 1: isulat("odd"); itigil();
+	magpalya: isulat(var0); 
+}

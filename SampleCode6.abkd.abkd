@@ -1,0 +1,6 @@
+pambuo var_@@@@@;
+
+pambuo var = 4+8-7+6/8*23;
+isulat(var+"hello"+var);
+
+

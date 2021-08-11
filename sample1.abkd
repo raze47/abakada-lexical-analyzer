@@ -1,0 +1,2 @@
+pambuo x=12;
+isulat("x is: "+x);

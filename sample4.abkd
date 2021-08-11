@@ -1,0 +1,3 @@
+pambuo x=12;
+isulat("pambuo: "+x);
+#nilalabas pambuo value#

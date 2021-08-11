@@ -1,0 +1,23 @@
+LEXEME					 TOKEN
+ang                                      Noise Word                               
+pambuo_124                               Identifier                               
+@                                        Relational Operator                      
+$                                        Relational Operator                      
+=                                        Assignment Operator                      
+420                                      Constant Number                          
+;                                        Delimiter Semicolon                      
+isulat                                   Keyword                                  
+(                                        Delimiter Parenthesis (Start)            
+pambuo                                   Data Type                                
++                                        Append                                   
+"                                        String Declarator (Start)                
+=                                        String                                   
+420                                      String                                   
+"                                        String Declarator (End)                  
+)                                        Delimiter Parenthesis (End)              
+;                                        Delimiter Semicolon                      
+#                                        Multiple-line Comment (Start)            
+random                                   Comment                                  
+comment                                  Comment                                  
+here                                     Comment                                  
+#                                        Multiple-line Comment (End)              

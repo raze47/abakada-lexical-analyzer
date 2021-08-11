@@ -1,0 +1,14 @@
+LEXEME					 TOKEN
+ang                                      Noise Word                               
+titik                                    Data Type                                
+t                                        Identifier                               
+=                                        Assignment Operator                      
+'                                        Character Declarator (Start)             
+a                                        titik                                    
+'                                        Character Declarator (End)               
+;                                        Delimiter Semicolon                      
+isulat                                   Write function                           
+(                                        Delimiter Parenthesis (Start)            
+t                                        Identifier                               
+)                                        Delimiter Parenthesis (End)              
+;                                        Delimiter Semicolon                      

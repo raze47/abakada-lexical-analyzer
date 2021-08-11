@@ -1,0 +1,2 @@
+pambuo x = 66/23+24*5;
+isulat("Output: "+x);

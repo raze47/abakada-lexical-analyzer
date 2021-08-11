@@ -1,0 +1,22 @@
+ang pambuo var1 = 9;
+ang bulyan var_1 = tama;
+ang parirala var = "asshdgahs";
+titik vae = 'ab';
+
+pambuo 0qqwe;
+
+kapag maganda ? rampa : iyak;
+
+pambuo baryante = var1 + var1 * 5 - 3;
+
+kapag(var @ 1) {
+	isulat("uno");
+}
+
+kundi kapag(var $ 1) {
+	isulat("1.25");
+}
+
+kundi() {
+	isulat("hindi tugma");
+}

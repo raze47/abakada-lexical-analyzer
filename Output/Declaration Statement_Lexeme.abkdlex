@@ -1,0 +1,30 @@
+LEXEME					 TOKEN
+ang                                      Noise Word                               
+pambuo                                   Data Type                                
+v1                                       Identifier                               
+=                                        Assignment Operator                      
+1                                        Constant Number                          
+;                                        Delimiter Semicolon                      
+ang                                      Noise Word                               
+hatimbuo                                 Data Type                                
+v2                                       Identifier                               
+=                                        Assignment Operator                      
+1                                        Constant Number                          
+.                                        Constant Number                          
+2                                        Constant Number                          
+;                                        Delimiter Semicolon                      
+bulyan                                   Data Type                                
+v3                                       Identifier                               
+=                                        Assignment Operator                      
+tama                                     Boolean                                  
+;                                        Delimiter Semicolon                      
+titik                                    Data Type                                
+v4                                       Identifier                               
+;                                        Delimiter Semicolon                      
+parirala                                 Data Type                                
+v5                                       Identifier                               
+=                                        Assignment Operator                      
+"                                        String Declarator (Start)                
+hello                                    String                                   
+"                                        String Declarator (End)                  
+;                                        Delimiter Semicolon                      

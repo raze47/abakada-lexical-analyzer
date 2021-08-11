@@ -1,0 +1,35 @@
+LEXEME					 TOKEN
+pambuo                                   Data Type                                
+var_                                     Identifier                               
+@                                        Relational Operator                      
+@                                        Relational Operator                      
+@                                        Relational Operator                      
+@                                        Relational Operator                      
+@                                        Relational Operator                      
+;                                        Delimiter Semicolon                      
+pambuo                                   Data Type                                
+var                                      Identifier                               
+=                                        Assignment Operator                      
+4                                        Constant Number                          
++                                        Arithmetic Operator                      
+8                                        Constant Number                          
+-                                        Arithmetic Operator                      
+7                                        Constant Number                          
++                                        Arithmetic Operator                      
+6                                        Constant Number                          
+/                                        Arithmetic Operator                      
+8                                        Constant Number                          
+*                                        Arithmetic Operator                      
+23                                       Constant Number                          
+;                                        Delimiter Semicolon                      
+isulat                                   Keyword                                  
+(                                        Delimiter Parenthesis (Start)            
+var                                      Identifier                               
++                                        Append                                   
+"                                        String Declarator (Start)                
+hello                                    String                                   
+"                                        String Declarator (End)                  
++                                        Append                                   
+var                                      Identifier                               
+)                                        Delimiter Parenthesis (End)              
+;                                        Delimiter Semicolon                      

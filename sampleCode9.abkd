@@ -1,0 +1,3 @@
+pambuo x;
+x = basahin("Maglagay ng laman sa x: ");
+isulat("Laman ng x: "+x);

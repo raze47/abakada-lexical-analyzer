@@ -1,0 +1,8 @@
+
+# Declaration Statement #
+
+ang pambuo v1 = 1;
+ang hatimbuo v2 = 1.2;
+bulyan v3 = tama;
+titik v4;
+parirala v5 = "hello";

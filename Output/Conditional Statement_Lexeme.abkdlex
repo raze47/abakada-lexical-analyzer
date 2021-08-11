@@ -1,0 +1,148 @@
+LEXEME					 TOKEN
+#                                        Multiple-line Comment (Start)            
+Conditional                              Comment                                  
+Statement                                Comment                                  
+#                                        Multiple-line Comment (End)              
+pambuo                                   Data Type                                
+var0                                     Identifier                               
+;                                        Delimiter Semicolon                      
+pambuo                                   Data Type                                
+var1                                     Identifier                               
+=                                        Assignment Operator                      
+5                                        Constant Number                          
+;                                        Delimiter Semicolon                      
+#                                        Multiple-line Comment (Start)            
+if                                       Identifier                               
+statement                                Identifier                               
+#                                        Multiple-line Comment (Start)            
+kapag                                    Keyword                                  
+(                                        Delimiter Parenthesis (Start)            
+var1                                     Identifier                               
+@                                        Relational Operator                      
+5                                        Constant Number                          
+)                                        Delimiter Parenthesis (End)              
+{                                        Delimiter Curly Bracket (Start)          
+#                                        Multiple-line Comment (Start)            
+var1                                     Identifier                               
+=                                        Assignment Operator                      
+=                                        Assignment Operator                      
+5                                        Constant Number                          
+#                                        Multiple-line Comment (Start)            
+isulat                                   Keyword                                  
+(                                        Delimiter Parenthesis (Start)            
+"                                        String Declarator (Start)                
+ang                                      String                                   
+baryante                                 String                                   
+ay                                       String                                   
+lima                                     String                                   
+"                                        String Declarator (End)                  
+)                                        Delimiter Parenthesis (End)              
+;                                        Delimiter Semicolon                      
+}                                        Delimiter Curly Bracket (End)            
+#                                        Multiple-line Comment (Start)            
+else                                     Identifier                               
+-                                        Arithmetic Operator                      
+if                                       Identifier                               
+statement                                Identifier                               
+#                                        Multiple-line Comment (Start)            
+kundi                                    Keyword                                  
+kapag                                    Keyword                                  
+(                                        Delimiter Parenthesis (Start)            
+var1                                     Identifier                               
+>                                        Relational Operator                      
+6                                        Constant Number                          
+odikaya                                  Logical Operator                         
+var1                                     Identifier                               
+@                                        Relational Operator                      
+6                                        Constant Number                          
+)                                        Delimiter Parenthesis (End)              
+{                                        Delimiter Curly Bracket (Start)          
+#                                        Multiple-line Comment (Start)            
+var1                                     Identifier                               
+>                                        Relational Operator                      
+=                                        Assignment Operator                      
+6                                        Constant Number                          
+#                                        Multiple-line Comment (Start)            
+isulat                                   Keyword                                  
+(                                        Delimiter Parenthesis (Start)            
+"                                        String Declarator (Start)                
+ang                                      String                                   
+baryante                                 String                                   
+ay                                       String                                   
+higit                                    String                                   
+sa                                       String                                   
+lima                                     String                                   
+"                                        String Declarator (End)                  
+)                                        Delimiter Parenthesis (End)              
+;                                        Delimiter Semicolon                      
+}                                        Delimiter Curly Bracket (End)            
+#                                        Multiple-line Comment (Start)            
+if                                       Identifier                               
+-                                        Arithmetic Operator                      
+else                                     Identifier                               
+statement                                Identifier                               
+#                                        Multiple-line Comment (Start)            
+kundi                                    Keyword                                  
+(                                        Delimiter Parenthesis (Start)            
+)                                        Delimiter Parenthesis (End)              
+{                                        Delimiter Curly Bracket (Start)          
+isulat                                   Keyword                                  
+(                                        Delimiter Parenthesis (Start)            
+"                                        String Declarator (Start)                
+ang                                      String                                   
+baryante                                 String                                   
+ay                                       String                                   
+hindi                                    String                                   
+higit                                    String                                   
+sa                                       String                                   
+lima                                     String                                   
+"                                        String Declarator (End)                  
+)                                        Delimiter Parenthesis (End)              
+;                                        Delimiter Semicolon                      
+}                                        Delimiter Curly Bracket (End)            
+var0                                     Identifier                               
+=                                        Assignment Operator                      
+1                                        Constant Number                          
+;                                        Delimiter Semicolon                      
+#                                        Multiple-line Comment (Start)            
+switch                                   Identifier                               
+statement                                Identifier                               
+#                                        Multiple-line Comment (Start)            
+palipat                                  Keyword                                  
+(                                        Delimiter Parenthesis (Start)            
+var0                                     Identifier                               
+)                                        Delimiter Parenthesis (End)              
+{                                        Delimiter Curly Bracket (Start)          
+kaso                                     Keyword                                  
+0:                                       Invalid Identifier                       
+isulat                                   Keyword                                  
+(                                        Delimiter Parenthesis (Start)            
+"                                        String Declarator (Start)                
+even                                     String                                   
+"                                        String Declarator (End)                  
+)                                        Delimiter Parenthesis (End)              
+;                                        Delimiter Semicolon                      
+itigil                                   Keyword                                  
+(                                        Delimiter Parenthesis (Start)            
+)                                        Delimiter Parenthesis (End)              
+;                                        Delimiter Semicolon                      
+kaso                                     Keyword                                  
+1:                                       Invalid Identifier                       
+isulat                                   Keyword                                  
+(                                        Delimiter Parenthesis (Start)            
+"                                        String Declarator (Start)                
+odd                                      String                                   
+"                                        String Declarator (End)                  
+)                                        Delimiter Parenthesis (End)              
+;                                        Delimiter Semicolon                      
+itigil                                   Keyword                                  
+(                                        Delimiter Parenthesis (Start)            
+)                                        Delimiter Parenthesis (End)              
+;                                        Delimiter Semicolon                      
+magpalya:                                Identifier                               
+isulat                                   Keyword                                  
+(                                        Delimiter Parenthesis (Start)            
+var0                                     Identifier                               
+)                                        Delimiter Parenthesis (End)              
+;                                        Delimiter Semicolon                      
+}                                        Delimiter Curly Bracket (End)            

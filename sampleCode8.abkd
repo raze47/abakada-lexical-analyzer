@@ -1,0 +1,2 @@
+pambuo sampleComp = (20%5)-(12+43)+(69*420)+(420/69);
+isulat("This is the result of sampleComp: "+sampleComp);

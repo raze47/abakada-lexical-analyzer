@@ -1,0 +1,94 @@
+ang                                      Noise Word                               
+pambuo                                   Keyword (Integer)                        
+var1                                     Identifier                               
+=                                        Assignment Operator                      
+9                                        Constant Number                          
+;                                        Delimiter Semicolon                      
+ang                                      Noise Word                               
+bulyan                                   Keyword (Booleanr)                       
+var_1                                    Identifier                               
+=                                        Assignment Operator                      
+tama                                     Boolean                                  
+;                                        Delimiter Semicolon                      
+ang                                      Noise Word                               
+parirala                                 Keyword (String)                         
+var                                      Identifier                               
+=                                        Assignment Operator                      
+"                                        String Declarator (Start)                
+asshdgahs                                String                                   
+"                                        String Declarator (End)                  
+;                                        Delimiter Semicolon                      
+titik                                    Keyword (Character)                      
+vae                                      Identifier                               
+=                                        Assignment Operator                      
+'                                        Character Declarator (Start)             
+ab                                       Invalid Token                            
+'                                        Character Declarator (End)               
+;                                        Delimiter Semicolon                      
+pambuo                                   Keyword (Integer)                        
+0qqwe                                    Invalid Identifier                       
+;                                        Delimiter Semicolon                      
+kapag                                    Keyword                                  
+maganda                                  Identifier                               
+?                                        Conditional Operator(?)                  
+rampa                                    Identifier                               
+:                                        Conditional Operator(:)                  
+iyak                                     Identifier                               
+;                                        Delimiter Semicolon                      
+pambuo                                   Keyword (Integer)                        
+baryante                                 Identifier                               
+=                                        Assignment Operator                      
+var1                                     Identifier                               
++                                        Arithmetic Operator Plus                 
+var1                                     Identifier                               
+*                                        Arithmetic Operator Multiplication       
+5                                        Constant Number                          
+-                                        Arithmetic Operator Minus                
+3                                        Constant Number                          
+;                                        Delimiter Semicolon                      
+kapag                                    Keyword                                  
+(                                        Delimiter Parenthesis (Start)            
+var                                      Identifier                               
+@                                        Relational Operator(EQUALS)              
+1                                        Constant Number                          
+)                                        Delimiter Parenthesis (End)              
+{                                        Delimiter Curly Bracket (Start)          
+isulat                                   Keyword (Pre-defined Function)           
+(                                        Delimiter Parenthesis (Start)            
+"                                        String Declarator (Start)                
+uno                                      String                                   
+"                                        String Declarator (End)                  
+)                                        Delimiter Parenthesis (End)              
+;                                        Delimiter Semicolon                      
+}                                        Delimiter Curly Bracket (End)            
+kundi                                    Keyword                                  
+kapag                                    Keyword                                  
+(                                        Delimiter Parenthesis (Start)            
+var                                      Identifier                               
+$                                        Relational Operator(NOT EQUALS)          
+1                                        Constant Number                          
+)                                        Delimiter Parenthesis (End)              
+{                                        Delimiter Curly Bracket (Start)          
+isulat                                   Keyword (Pre-defined Function)           
+(                                        Delimiter Parenthesis (Start)            
+"                                        String Declarator (Start)                
+1                                        String                                   
+.                                        String                                   
+25                                       String                                   
+"                                        String Declarator (End)                  
+)                                        Delimiter Parenthesis (End)              
+;                                        Delimiter Semicolon                      
+}                                        Delimiter Curly Bracket (End)            
+kundi                                    Keyword                                  
+(                                        Delimiter Parenthesis (Start)            
+)                                        Delimiter Parenthesis (End)              
+{                                        Delimiter Curly Bracket (Start)          
+isulat                                   Keyword (Pre-defined Function)           
+(                                        Delimiter Parenthesis (Start)            
+"                                        String Declarator (Start)                
+hindi                                    String                                   
+tugma                                    String                                   
+"                                        String Declarator (End)                  
+)                                        Delimiter Parenthesis (End)              
+;                                        Delimiter Semicolon                      
+}                                        Delimiter Curly Bracket (End)            
